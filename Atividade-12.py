@@ -23,6 +23,3 @@ while ver == False:
 
 
 
-
-
-

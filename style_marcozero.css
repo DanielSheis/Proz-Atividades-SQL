@@ -49,3 +49,11 @@
     gap: 15px;
     border: 10px;
  }
+
+ .botao_voltar{
+    padding-bottom: 30px;
+ }
+
+ h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
